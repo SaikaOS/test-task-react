@@ -1,0 +1,11 @@
+.app {
+    @apply flex flex-col items-center
+}
+
+.ava {
+    @apply rounded-[50%]
+}
+
+.border {
+    @apply border-2 border-solid
+}

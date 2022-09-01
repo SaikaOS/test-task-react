@@ -1,0 +1,15 @@
+.app {
+    @apply h-screen flex items-center flex-col
+}
+
+.auth {
+    @apply flex flex-col
+}
+
+.input {
+    @apply w-[300px] mt-10 rounded-md border-gray-300 border-2 p-2
+}
+
+.title {
+    @apply text-center text-2xl
+}

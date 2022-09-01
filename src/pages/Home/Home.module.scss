@@ -1,0 +1,7 @@
+.app {
+    @apply flex flex-col items-center
+}
+
+.wrapper {
+    @apply grid grid-cols-3 gap-10
+}

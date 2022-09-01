@@ -1,0 +1,11 @@
+.header {
+    @apply bg-red-200 h-[100px] w-screen mb-12
+}
+
+.btn {
+    @apply bg-black text-white p-2 rounded-md w-[100px]
+}
+
+.wrapper {
+    @apply flex items-center justify-around h-[100px]
+}

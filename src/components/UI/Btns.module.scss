@@ -1,0 +1,7 @@
+.btns {
+    @apply flex flex-col items-center justify-between h-[130px] mt-6
+}
+
+.btn {
+    @apply bg-black text-white p-2 rounded-md
+}

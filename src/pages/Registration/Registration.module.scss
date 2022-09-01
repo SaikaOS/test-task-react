@@ -1,0 +1,19 @@
+.app {
+    @apply flex flex-col items-center
+}
+
+.input {
+    @apply w-[300px] mt-10 rounded-md border-gray-300 border-2 p-2
+}
+
+.title {
+    @apply text-2xl
+}
+
+.input {
+    @apply w-[300px] mt-10 rounded-md border-gray-300 border-2 p-2
+}
+
+.btn {
+    @apply bg-black text-white p-2 rounded-md mt-6 w-[150px]
+}
