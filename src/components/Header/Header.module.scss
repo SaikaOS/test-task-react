@@ -3,9 +3,9 @@
 }
 
 .btn {
-    @apply bg-black text-white p-2 rounded-md w-[100px]
+    @apply w-[100px] bg-black text-white p-2 rounded-md 
 }
 
 .wrapper {
-    @apply flex items-center justify-around h-[100px]
+    @apply h-[100px] flex items-center justify-around 
 }
